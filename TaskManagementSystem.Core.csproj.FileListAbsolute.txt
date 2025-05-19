@@ -1,0 +1,12 @@
+C:\Users\dell\Desktop\task-management sytem\TaskManagementSystem.Core\bin\Debug\net6.0\TaskManagementSystem.Core.deps.json
+C:\Users\dell\Desktop\task-management sytem\TaskManagementSystem.Core\bin\Debug\net6.0\TaskManagementSystem.Core.dll
+C:\Users\dell\Desktop\task-management sytem\TaskManagementSystem.Core\bin\Debug\net6.0\TaskManagementSystem.Core.pdb
+C:\Users\dell\Desktop\task-management sytem\TaskManagementSystem.Core\obj\Debug\net6.0\TaskManagementSystem.Core.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\task-management sytem\TaskManagementSystem.Core\obj\Debug\net6.0\TaskManagementSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\task-management sytem\TaskManagementSystem.Core\obj\Debug\net6.0\TaskManagementSystem.Core.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\task-management sytem\TaskManagementSystem.Core\obj\Debug\net6.0\TaskManagementSystem.Core.AssemblyInfo.cs
+C:\Users\dell\Desktop\task-management sytem\TaskManagementSystem.Core\obj\Debug\net6.0\TaskManagementSystem.Core.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\task-management sytem\TaskManagementSystem.Core\obj\Debug\net6.0\TaskManagementSystem.Core.dll
+C:\Users\dell\Desktop\task-management sytem\TaskManagementSystem.Core\obj\Debug\net6.0\refint\TaskManagementSystem.Core.dll
+C:\Users\dell\Desktop\task-management sytem\TaskManagementSystem.Core\obj\Debug\net6.0\TaskManagementSystem.Core.pdb
+C:\Users\dell\Desktop\task-management sytem\TaskManagementSystem.Core\obj\Debug\net6.0\ref\TaskManagementSystem.Core.dll
